@@ -1,0 +1,17 @@
+## Title: TrueExploration
+## APIVersion: 100031
+## Version: 2.0
+## AddOnVersion: 200
+## Author: Shinni
+## SavedVariables: TE_SavedVars
+## DependsOn: LibAddonMenu-2.0>=32 LibGPS>=66
+## OptionalDependsOn: AUI
+
+libs\LibDAU\LibDAU.lua
+
+language\en.lua
+language\$(language).lua
+
+TrueExploration.lua
+TrueExplorationOptions.lua
+TrueExploration.xml
