@@ -4,7 +4,7 @@
 ## AddOnVersion: 200
 ## Author: Shinni
 ## SavedVariables: TE_SavedVars
-## DependsOn: LibAddonMenu-2.0>=32 LibGPS>=66
+## DependsOn: LibAddonMenu-2.0>=33 LibGPS>=66
 ## OptionalDependsOn: AUI
 
 libs\LibDAU\LibDAU.lua
