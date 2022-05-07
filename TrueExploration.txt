@@ -1,10 +1,10 @@
 ## Title: TrueExploration
-## APIVersion: 100031
-## Version: 2.0
-## AddOnVersion: 200
+## APIVersion: 101033 101034
+## Version: 1.10
+## AddOnVersion: 110
 ## Author: Shinni
 ## SavedVariables: TE_SavedVars
-## DependsOn: LibAddonMenu-2.0>=33 LibGPS>=66
+## DependsOn: LibAddonMenu-2.0>=33 LibGPS>=66 LibMapPing>=1236 LibDebugLogger>=200 LibChatMessage>=105
 ## OptionalDependsOn: AUI
 
 libs\LibDAU\LibDAU.lua
