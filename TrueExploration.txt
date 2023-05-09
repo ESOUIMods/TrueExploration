@@ -7,8 +7,6 @@
 ## DependsOn: LibAddonMenu-2.0>=33 LibGPS>=68 LibMapPing>=1236 LibDebugLogger>=200 LibChatMessage>=105
 ## OptionalDependsOn: AUI
 
-libs\LibDAU\LibDAU.lua
-
 language\en.lua
 language\$(language).lua
 
