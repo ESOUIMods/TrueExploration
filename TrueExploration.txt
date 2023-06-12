@@ -4,7 +4,7 @@
 ## AddOnVersion: 110
 ## Author: Shinni
 ## SavedVariables: TE_SavedVars
-## DependsOn: LibAddonMenu-2.0>=33 LibGPS>=68 LibMapPing>=1236 LibDebugLogger>=200 LibChatMessage>=105
+## DependsOn: LibAddonMenu-2.0>=33 LibGPS>=69 LibMapPing>=1236 LibDebugLogger>=200 LibChatMessage>=105
 ## OptionalDependsOn: AUI
 
 language\en.lua
