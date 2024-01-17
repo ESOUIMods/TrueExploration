@@ -1,5 +1,5 @@
 ## Title: TrueExploration
-## APIVersion: 101035 101036
+## APIVersion: 101039 101040
 ## Version: 1.10
 ## AddOnVersion: 110
 ## Author: Shinni
